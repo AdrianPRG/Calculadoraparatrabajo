@@ -59,6 +59,12 @@ class Calculadora(){
     var estamosennum1=true
 
     /**
+     * c
+     */
+
+    var calculonuevo=false
+
+    /**
      * Parametros solicitados para poder realizar la suma de 'num1' y 'num2'
      * @param numero1
      * @param numero2
